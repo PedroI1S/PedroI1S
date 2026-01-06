@@ -7,8 +7,8 @@ Sou um desenvolvedor focado em construir soluções robustas que resolvem proble
 ---
 
 ### 🚀 Destaques e Conquistas
-* [cite_start]**3º Lugar no Ideathon Inova 2025** com a MetricHub[cite: 13].
-* [cite_start]**2º Lugar no Ideathon UTFPR-PB 25** com o projeto Terris[cite: 14].
+* **3º Lugar no Ideathon Inova 2025** com a MetricHub.
+* **2º Lugar no Ideathon UTFPR-PB 25** com o projeto Terris.
 * **MetricHub:** Solução de aquisição de dados (DAQ) validada pela ATLAS Eletrodomésticos, capaz de triplicar a produtividade laboratorial.
 * **Terris:** Plataforma de monitoramento agrícola georreferenciado utilizando Mapbox e testes automatizados.
 
@@ -25,9 +25,9 @@ Sou um desenvolvedor focado em construir soluções robustas que resolvem proble
 ---
 
 ### 📫 Como me encontrar
-* [cite_start]**LinkedIn:** [linkedin.com/in/pedro-mariano-b6915a300](https://www.linkedin.com/in/pedro-mariano-b6915a300) [cite: 3, 4]
-* [cite_start]**Email:** pedromariano1119@outlook.com [cite: 2]
-* [cite_start]**Localização:** Pato Branco, PR - Brasil [cite: 16]
+* **LinkedIn:** [linkedin.com/in/pedro-mariano-b6915a300](https://www.linkedin.com/in/pedro-mariano-b6915a300)
+* **Email:** pedromariano.s@outlook.com
+* **Localização:** Pato Branco, PR - Brasil
 
 ---
 
